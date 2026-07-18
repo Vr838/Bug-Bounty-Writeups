@@ -1,8 +1,8 @@
 # **🏆 Hall of Fame Unlocked: Bypass Authentication**
-**Author:** Vansh Rathore
 
-**LinkedIn:** [Vansh Rathore](https://www.linkedin.com/in/vansh-rathore-cybersecurity)
-
+> **Author:** Vansh Rathore  
+> **LinkedIn:** https://www.linkedin.com/in/vansh-rathore-cybersecurity
+> 
 Balancing CSE coursework with late-night bug hunting always makes for an interesting schedule, but hitting a Hall of Fame makes the grind completely worth it! 🚀
 
 Recently, I was hunting on a target (let’s call it example.com) and decided to dive deep into their authentication mechanisms. I always emphasize to other hunters in our community that relying solely on automated scanners will make you miss the most critical business logic flaws. You have to get your hands dirty and understand how the application actually thinks.
