@@ -1,8 +1,7 @@
 # **🚨 How I “Hacked” a Company’s Instagram Account (And Got Rewarded for an Out-of-Scope Bug!) 📸🔥**
 
-**Author:** Vansh Rathore
-
-**LinkedIn:** [Vansh Rathore](https://www.linkedin.com/in/vansh-rathore-cybersecurity/)
+> **Author:** Vansh Rathore  
+> **LinkedIn:** https://www.linkedin.com/in/vansh-rathore-cybersecurity
 
 In the bug bounty community, it is incredibly easy to get tunnel vision. We spend hours hunting for complex vulnerabilities — trying to bypass WAFs, chaining exploits, or digging for that elusive RCE. But nowadays, almost no one is thinking about the simpler, logical bugs hiding right in plain sight.
 
